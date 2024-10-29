@@ -29,7 +29,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/my-app.git
+   git clone https://github.com/beshiralkhadra/multi-step-form.git
    cd my-app
    npm install
    ```
