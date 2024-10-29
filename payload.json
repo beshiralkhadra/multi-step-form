@@ -1,0 +1,23 @@
+{
+  "data": {
+    "attributes": {
+      "is-destroy": false,
+      "message": "Triggered from Cloud Build",
+      "variables": [
+        {
+          "key": "__IMAGE_KEY__",
+          "value": "\"__IMAGE_URL__\""
+        }
+      ]
+    },
+    "type": "runs",
+    "relationships": {
+      "workspace": {
+        "data": {
+          "type": "workspaces",
+          "id": "__WORKSPACE_ID__"
+        }
+      }
+    }
+  }
+}
